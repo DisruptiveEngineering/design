@@ -1,0 +1,400 @@
+{
+  "veira": {
+    "accent": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#f1f4f4"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#e4e9ea"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#d3dcdc"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#c1cccd"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#b0bebf"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#607e80"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#3f6366"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#3f6366"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#013134"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#003033"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "#164245"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "#2d5457"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "#b4c2c3"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "veira-coral": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#fef1ed"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#fce3db"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#fad1c2"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#f8bda7"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#f6a98d"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#af654b"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#874f3a"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#874f3a"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#3f251b"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#f38d68"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "#d57c5b"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "#b76a4e"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "#251510"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#000000"
+      }
+    },
+    "veria-yellow": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#fff4c7"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#ffe88e"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#fed737"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#f3c50a"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#e2b709"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#917606"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#705b04"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#705b04"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#352b02"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#fece0a"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "#e3b809"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "#c9a308"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "#463903"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#000000"
+      }
+    },
+    "veira-green": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#ecf7e6"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#d9efcd"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#c0e5ac"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#a3d987"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#88cd64"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#498729"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#396920"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#396920"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#1a310f"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#68c03a"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "#5ba833"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "#4e912c"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "#11200a"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#000000"
+      }
+    },
+    "veira-blue": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#e4f7ff"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#caeeff"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#a6e3ff"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#7bd5ff"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#51c7ff"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#2381ad"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#1b6486"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#1b6486"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#0d2f3f"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#33beff"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "#2da7e1"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "#2791c3"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "#0a2430"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#000000"
+      }
+    },
+    "neutral": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#f4f3f3"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#e9e8e7"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#dbdad8"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#cccac8"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#bdbbb9"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#7a7877"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#5e5d5c"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#5e5d5c"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#2c2b2b"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#d3d1cf"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "#bdbbb9"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "#a7a6a4"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "#393938"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#000000"
+      }
+    }
+  }
+}

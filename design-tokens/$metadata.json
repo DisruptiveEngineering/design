@@ -1,0 +1,26 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/modes/size/small",
+    "primitives/modes/size/medium",
+    "primitives/modes/size/large",
+    "primitives/modes/size/global",
+    "primitives/modes/typography/size/small",
+    "primitives/modes/typography/size/medium",
+    "primitives/modes/typography/size/large",
+    "primitives/modes/typography/primary/veira",
+    "primitives/modes/typography/secondary/veira",
+    "primitives/modes/color-scheme/dark/global",
+    "primitives/modes/color-scheme/dark/veira",
+    "primitives/modes/color-scheme/light/global",
+    "primitives/modes/color-scheme/light/veira",
+    "themes/veira",
+    "semantic/color",
+    "semantic/modes/main-color/accent",
+    "semantic/modes/support-color/veira-coral",
+    "semantic/modes/support-color/veria-yellow",
+    "semantic/modes/support-color/veira-green",
+    "semantic/modes/support-color/veira-blue",
+    "semantic/style"
+  ]
+}
