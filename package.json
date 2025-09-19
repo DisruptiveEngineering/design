@@ -1,0 +1,71 @@
+{
+  "name": "@veira/design",
+  "version": "1.0.0",
+  "description": "Veira Design System - extending Designsystemet.no with custom components and design tokens",
+  "main": "./dist/index.js",
+  "module": "./dist/index.esm.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.esm.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./styles": "./dist/styles.css",
+    "./tokens": "./dist/tokens.css",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "npm run build:tokens && npm run build:lib && npm run build:styles",
+    "build:lib": "rollup -c",
+    "build:tokens": "cp design-tokens-build/veira.css dist/tokens.css",
+    "build:styles": "npm run build:tokens && cp dist/tokens.css dist/styles.css",
+    "dev": "rollup -c --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "jest",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "@digdir/designsystemet-react": "^1.1.9",
+    "@digdir/designsystemet-css": "^1.1.4",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@digdir/designsystemet-react": "^1.1.9",
+    "@digdir/designsystemet-css": "^1.1.4",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "jest": "^29.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^4.9.6",
+    "rollup-plugin-dts": "^6.1.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "typescript": "^5.3.3"
+  },
+  "keywords": [
+    "design-system",
+    "react",
+    "components",
+    "designsystemet",
+    "veira",
+    "ui"
+  ],
+  "author": "Veira",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DisruptiveEngineering/design.git"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
