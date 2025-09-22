@@ -198,70 +198,70 @@
         "$value": "{color.veira-coral.16}"
       }
     },
-    "veria-yellow": {
+    "veira-yellow": {
       "background-default": {
         "$type": "color",
-        "$value": "{color.veria-yellow.1}"
+        "$value": "{color.veira-yellow.1}"
       },
       "background-tinted": {
         "$type": "color",
-        "$value": "{color.veria-yellow.2}"
+        "$value": "{color.veira-yellow.2}"
       },
       "surface-default": {
         "$type": "color",
-        "$value": "{color.veria-yellow.3}"
+        "$value": "{color.veira-yellow.3}"
       },
       "surface-tinted": {
         "$type": "color",
-        "$value": "{color.veria-yellow.4}"
+        "$value": "{color.veira-yellow.4}"
       },
       "surface-hover": {
         "$type": "color",
-        "$value": "{color.veria-yellow.5}"
+        "$value": "{color.veira-yellow.5}"
       },
       "surface-active": {
         "$type": "color",
-        "$value": "{color.veria-yellow.6}"
+        "$value": "{color.veira-yellow.6}"
       },
       "border-subtle": {
         "$type": "color",
-        "$value": "{color.veria-yellow.7}"
+        "$value": "{color.veira-yellow.7}"
       },
       "border-default": {
         "$type": "color",
-        "$value": "{color.veria-yellow.8}"
+        "$value": "{color.veira-yellow.8}"
       },
       "border-strong": {
         "$type": "color",
-        "$value": "{color.veria-yellow.9}"
+        "$value": "{color.veira-yellow.9}"
       },
       "text-subtle": {
         "$type": "color",
-        "$value": "{color.veria-yellow.10}"
+        "$value": "{color.veira-yellow.10}"
       },
       "text-default": {
         "$type": "color",
-        "$value": "{color.veria-yellow.11}"
+        "$value": "{color.veira-yellow.11}"
       },
       "base-default": {
         "$type": "color",
-        "$value": "{color.veria-yellow.12}"
+        "$value": "{color.veira-yellow.12}"
       },
       "base-hover": {
         "$type": "color",
-        "$value": "{color.veria-yellow.13}"
+        "$value": "{color.veira-yellow.13}"
       },
       "base-active": {
         "$type": "color",
-        "$value": "{color.veria-yellow.14}"
+        "$value": "{color.veira-yellow.14}"
       },
       "base-contrast-subtle": {
         "$type": "color",
-        "$value": "{color.veria-yellow.15}"
+        "$value": "{color.veira-yellow.15}"
       },
       "base-contrast-default": {
         "$type": "color",
-        "$value": "{color.veria-yellow.16}"
+        "$value": "{color.veira-yellow.16}"
       }
     },
     "veira-green": {

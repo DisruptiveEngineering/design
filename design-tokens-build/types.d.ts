@@ -6,7 +6,7 @@ declare module '@digdir/designsystemet/types' {
   export interface ColorDefinitions {
     accent: never;
     'veira-coral': never;
-    'veria-yellow': never;
+    'veira-yellow': never;
     'veira-green': never;
     'veira-blue': never;
     neutral: never;

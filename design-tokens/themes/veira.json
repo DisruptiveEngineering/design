@@ -198,70 +198,70 @@
         "$value": "{veira.veira-coral.16}"
       }
     },
-    "veria-yellow": {
+    "veira-yellow": {
       "1": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.1}"
+        "$value": "{veira.veira-yellow.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.2}"
+        "$value": "{veira.veira-yellow.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.3}"
+        "$value": "{veira.veira-yellow.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.4}"
+        "$value": "{veira.veira-yellow.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.5}"
+        "$value": "{veira.veira-yellow.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.6}"
+        "$value": "{veira.veira-yellow.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.7}"
+        "$value": "{veira.veira-yellow.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.8}"
+        "$value": "{veira.veira-yellow.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.9}"
+        "$value": "{veira.veira-yellow.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.10}"
+        "$value": "{veira.veira-yellow.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.11}"
+        "$value": "{veira.veira-yellow.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.12}"
+        "$value": "{veira.veira-yellow.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.13}"
+        "$value": "{veira.veira-yellow.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.14}"
+        "$value": "{veira.veira-yellow.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.15}"
+        "$value": "{veira.veira-yellow.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{veira.veria-yellow.16}"
+        "$value": "{veira.veira-yellow.16}"
       }
     },
     "veira-green": {
