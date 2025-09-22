@@ -16,9 +16,9 @@ export declare const tokens: {
             readonly text: "var(--ds-color-veira-green-text-default)";
         };
         readonly veriaYellow: {
-            readonly base: "var(--ds-color-veria-yellow-base-default)";
-            readonly surface: "var(--ds-color-veria-yellow-surface-default)";
-            readonly text: "var(--ds-color-veria-yellow-text-default)";
+            readonly base: "var(--ds-color-veira-yellow-base-default)";
+            readonly surface: "var(--ds-color-veira-yellow-surface-default)";
+            readonly text: "var(--ds-color-veira-yellow-text-default)";
         };
     };
     readonly spacing: {
