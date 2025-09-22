@@ -18,7 +18,7 @@ const tokens = {
             surface: 'var(--ds-color-veira-green-surface-default)',
             text: 'var(--ds-color-veira-green-text-default)',
         },
-        veriaYellow: {
+        veiraYellow: {
             base: 'var(--ds-color-veira-yellow-base-default)',
             surface: 'var(--ds-color-veira-yellow-surface-default)',
             text: 'var(--ds-color-veira-yellow-text-default)',
