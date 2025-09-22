@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "primitives/modes/size/medium": "source",
       "primitives/modes/size/global": "enabled",
-      "primitives/modes/typography/size/medium": "enabled"
+      "primitives/modes/typography/size/medium": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "41630:1",
@@ -54,7 +55,8 @@
     "selectedTokenSets": {
       "primitives/modes/size/large": "source",
       "primitives/modes/size/global": "enabled",
-      "primitives/modes/typography/size/large": "enabled"
+      "primitives/modes/typography/size/large": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "41630:2",
@@ -102,7 +104,8 @@
     "selectedTokenSets": {
       "primitives/modes/size/small": "source",
       "primitives/modes/size/global": "enabled",
-      "primitives/modes/typography/size/small": "enabled"
+      "primitives/modes/typography/size/small": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "41630:3",
@@ -149,7 +152,8 @@
     "$figmaModeId": "40960:6",
     "name": "veira",
     "selectedTokenSets": {
-      "themes/veira": "enabled"
+      "themes/veira": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "group": "Theme",
     "$figmaVariableReferences": {
@@ -201,22 +205,6 @@
       "color.veira-coral.14": "003897ad0dfe9e4964fed50735e7fd66d290ca64",
       "color.veira-coral.15": "9f6c6922cee06c94014c7a71aa741dc951399f2d",
       "color.veira-coral.16": "aa8198f33e477997743f0bff38c487fcef0992b1",
-      "color.veria-yellow.1": "e650679c5e76e997c71ece0811cec55493b38c4c",
-      "color.veria-yellow.2": "18bdcb53db9aebd2755ac40eec36f1b182487610",
-      "color.veria-yellow.3": "db772e353b6c2984251f264c4ec76579128a4e8b",
-      "color.veria-yellow.4": "74c173045cdc5f5b41c506d3461adde9be0779ce",
-      "color.veria-yellow.5": "3b6c49508bd8fb370c2e5d6e5976185218e751fe",
-      "color.veria-yellow.6": "7eddea40c97648fa22ed9f77c329f7188fe82193",
-      "color.veria-yellow.7": "1ce7d4c15cc0930520d5c3eb6815d302c1433035",
-      "color.veria-yellow.8": "7c5e58b40d078f9e4e65912f6ebcd03fc828a37c",
-      "color.veria-yellow.9": "5c4b9b05c201cfbc3c0056bb580a7824586859b3",
-      "color.veria-yellow.10": "2d63d0c85f7fd4972e3e3b5996862ef0b9842f01",
-      "color.veria-yellow.11": "a2a6e1281b39fdf4eccc049b4fbece1c32b3138c",
-      "color.veria-yellow.12": "1d510b82fd25e966df09b2a5313ada3372c8776d",
-      "color.veria-yellow.13": "eca36eef5d56e7f763da2eb897219a3dc6189c88",
-      "color.veria-yellow.14": "f64104db60e516f90c52ade940d22dd4ade24787",
-      "color.veria-yellow.15": "73ecdc1e244185813f457856d08eff80d9ed945a",
-      "color.veria-yellow.16": "f6175d7e38cb731a8b52ec59f609dc1863b0203d",
       "color.veira-green.1": "21c2e092b463a269e6c75404621a901d6fee0ff3",
       "color.veira-green.2": "c9018b1a2ac42e7c458932e21a410ae1f5dd3ad9",
       "color.veira-green.3": "4cf908a419ea7abcb69aa20c59f0378bc2286df4",
@@ -260,7 +248,23 @@
       "border-radius.5": "e645456b039779939f85dc6394edca97e4dd52ed",
       "border-radius.6": "f8069a3ecb69cad38a268cb5da6a1ac06234f643",
       "border-radius.base": "1610d7658032b22ec515e397409386d5531d1123",
-      "border-radius.scale": "8602ff1e04d25f11ce7df0e4da1778048e18ed9f"
+      "border-radius.scale": "8602ff1e04d25f11ce7df0e4da1778048e18ed9f",
+      "color.veira-yellow.1": "e650679c5e76e997c71ece0811cec55493b38c4c",
+      "color.veira-yellow.2": "18bdcb53db9aebd2755ac40eec36f1b182487610",
+      "color.veira-yellow.3": "db772e353b6c2984251f264c4ec76579128a4e8b",
+      "color.veira-yellow.4": "74c173045cdc5f5b41c506d3461adde9be0779ce",
+      "color.veira-yellow.5": "3b6c49508bd8fb370c2e5d6e5976185218e751fe",
+      "color.veira-yellow.6": "7eddea40c97648fa22ed9f77c329f7188fe82193",
+      "color.veira-yellow.7": "1ce7d4c15cc0930520d5c3eb6815d302c1433035",
+      "color.veira-yellow.8": "7c5e58b40d078f9e4e65912f6ebcd03fc828a37c",
+      "color.veira-yellow.9": "5c4b9b05c201cfbc3c0056bb580a7824586859b3",
+      "color.veira-yellow.10": "2d63d0c85f7fd4972e3e3b5996862ef0b9842f01",
+      "color.veira-yellow.11": "a2a6e1281b39fdf4eccc049b4fbece1c32b3138c",
+      "color.veira-yellow.12": "1d510b82fd25e966df09b2a5313ada3372c8776d",
+      "color.veira-yellow.13": "eca36eef5d56e7f763da2eb897219a3dc6189c88",
+      "color.veira-yellow.14": "f64104db60e516f90c52ade940d22dd4ade24787",
+      "color.veira-yellow.15": "73ecdc1e244185813f457856d08eff80d9ed945a",
+      "color.veira-yellow.16": "f6175d7e38cb731a8b52ec59f609dc1863b0203d"
     }
   },
   {
@@ -269,7 +273,8 @@
     "$figmaModeId": "36248:2",
     "name": "Primary",
     "selectedTokenSets": {
-      "primitives/modes/typography/primary/veira": "enabled"
+      "primitives/modes/typography/primary/veira": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "group": "Typography",
     "$figmaVariableReferences": {
@@ -285,7 +290,8 @@
     "$figmaModeId": "46115:0",
     "name": "Secondary",
     "selectedTokenSets": {
-      "primitives/modes/typography/secondary/veira": "enabled"
+      "primitives/modes/typography/secondary/veira": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "group": "Typography",
     "$figmaVariableReferences": {
@@ -299,7 +305,8 @@
     "name": "Dark",
     "selectedTokenSets": {
       "primitives/modes/color-scheme/dark/global": "enabled",
-      "primitives/modes/color-scheme/dark/veira": "enabled"
+      "primitives/modes/color-scheme/dark/veira": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "id": "9ebd8aed52afbffc17e2666e8b4653a53498b257",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
@@ -488,7 +495,8 @@
     "name": "Light",
     "selectedTokenSets": {
       "primitives/modes/color-scheme/light/global": "enabled",
-      "primitives/modes/color-scheme/light/veira": "enabled"
+      "primitives/modes/color-scheme/light/veira": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "id": "0daa3ca0b427b9349da7e7dc00101b5668972926",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
@@ -679,7 +687,8 @@
     "selectedTokenSets": {
       "semantic/style": "enabled",
       "semantic/color": "enabled",
-      "primitives/globals": "source"
+      "primitives/globals": "source",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5976",
     "$figmaModeId": "34811:5",
@@ -733,22 +742,6 @@
       "color.veira-coral.base-active": "89e45eefd653c0551e9abfaefc4b8e7e92a62271",
       "color.veira-coral.base-contrast-subtle": "60dd064a5d376c0c39df733f01768fce42d9f66a",
       "color.veira-coral.base-contrast-default": "fd879d624252b6eb8258393b16fde4767362deed",
-      "color.veria-yellow.background-default": "14f44907fa5892f686d14aea60029d11f8bf3a89",
-      "color.veria-yellow.background-tinted": "a73ddbc98df28c50c423af2dcf18509316eeb848",
-      "color.veria-yellow.surface-default": "380b02e28c37d052ce72aec8aa3bdd79cdc2f73e",
-      "color.veria-yellow.surface-tinted": "1b24bccfe5b082a1c93ab8df06dacca17e9ee8cd",
-      "color.veria-yellow.surface-hover": "1e24efd26e0802240e90eab9ea00ed05d1394ef9",
-      "color.veria-yellow.surface-active": "a438ea3ab4aa04ac5e01915fd84ecaa02f4680a2",
-      "color.veria-yellow.border-subtle": "e57cec49051b8455ed64383fafef39438ce93444",
-      "color.veria-yellow.border-default": "38410ef97c42e1f4cb54df4627acedeb31540810",
-      "color.veria-yellow.border-strong": "da7a89f6d277f330f37eeb09172c739f714e4266",
-      "color.veria-yellow.text-subtle": "798e90d1358e98877ff622d8df4f0c64573be9ca",
-      "color.veria-yellow.text-default": "960ea6d22c54670fa494a39ba25076e5924aae11",
-      "color.veria-yellow.base-default": "0fffc6ccbfc3255422a4815a2ec117dc47cf82f8",
-      "color.veria-yellow.base-hover": "520346082b9855fcbecaa74d0808f18d8158732f",
-      "color.veria-yellow.base-active": "3803e736e52b3f7785094e340917b8c4debc3d60",
-      "color.veria-yellow.base-contrast-subtle": "1491efe7fbbf3fc7d3c7e4eea47f323333c33b6e",
-      "color.veria-yellow.base-contrast-default": "43c7daf523bcd385d8594fecd397e67de18a2188",
       "color.veira-green.background-default": "e23ecec9e02ba61b395a2ec88eeb371537535eae",
       "color.veira-green.background-tinted": "00ce3f40b40427fa0614c8811099a4b07406d370",
       "color.veira-green.surface-default": "5d7e0f3d24b0bdc5f093fd616864126b46fa74aa",
@@ -876,7 +869,23 @@
       "size.18": "81e56d58e65ba5dc9fcee716cee1838e382e847c",
       "size.22": "41a3c80e10da97de21734da907dc6827b467df0f",
       "size.26": "d9c39f2a22dbe1106b58c2633f269f0e81a4a31e",
-      "size.30": "a82295fb91fef11144f4e96ab4e1a8d0ea1d2e49"
+      "size.30": "a82295fb91fef11144f4e96ab4e1a8d0ea1d2e49",
+      "color.veira-yellow.background-default": "14f44907fa5892f686d14aea60029d11f8bf3a89",
+      "color.veira-yellow.background-tinted": "a73ddbc98df28c50c423af2dcf18509316eeb848",
+      "color.veira-yellow.surface-default": "380b02e28c37d052ce72aec8aa3bdd79cdc2f73e",
+      "color.veira-yellow.surface-tinted": "1b24bccfe5b082a1c93ab8df06dacca17e9ee8cd",
+      "color.veira-yellow.surface-hover": "1e24efd26e0802240e90eab9ea00ed05d1394ef9",
+      "color.veira-yellow.surface-active": "a438ea3ab4aa04ac5e01915fd84ecaa02f4680a2",
+      "color.veira-yellow.border-subtle": "e57cec49051b8455ed64383fafef39438ce93444",
+      "color.veira-yellow.border-default": "38410ef97c42e1f4cb54df4627acedeb31540810",
+      "color.veira-yellow.border-strong": "da7a89f6d277f330f37eeb09172c739f714e4266",
+      "color.veira-yellow.text-subtle": "798e90d1358e98877ff622d8df4f0c64573be9ca",
+      "color.veira-yellow.text-default": "960ea6d22c54670fa494a39ba25076e5924aae11",
+      "color.veira-yellow.base-default": "0fffc6ccbfc3255422a4815a2ec117dc47cf82f8",
+      "color.veira-yellow.base-hover": "520346082b9855fcbecaa74d0808f18d8158732f",
+      "color.veira-yellow.base-active": "3803e736e52b3f7785094e340917b8c4debc3d60",
+      "color.veira-yellow.base-contrast-subtle": "1491efe7fbbf3fc7d3c7e4eea47f323333c33b6e",
+      "color.veira-yellow.base-contrast-default": "43c7daf523bcd385d8594fecd397e67de18a2188"
     },
     "$figmaStyleReferences": {
       "typography.heading.2xl": "S:f01f88a0e1673336495bbef80505f28ca8dc0ca0,",
@@ -912,7 +921,8 @@
     "id": "77029e975ec86efe4b92eb0be546d61959085bd1",
     "name": "accent",
     "selectedTokenSets": {
-      "semantic/modes/main-color/accent": "enabled"
+      "semantic/modes/main-color/accent": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "group": "Main color",
     "$figmaCollectionId": "VariableCollectionId:40350:32139",
@@ -940,7 +950,8 @@
     "id": "81f3478d3b61966b7864df13b93a1ebea937aba8",
     "name": "veira-coral",
     "selectedTokenSets": {
-      "semantic/modes/support-color/veira-coral": "enabled"
+      "semantic/modes/support-color/veira-coral": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "group": "Support color",
     "$figmaCollectionId": "VariableCollectionId:40350:32140",
@@ -968,7 +979,7 @@
     "id": "01094a71ab8dde63cfee28db83a959befaaa515f",
     "name": "veria-yellow",
     "selectedTokenSets": {
-      "semantic/modes/support-color/veria-yellow": "enabled"
+      "semantic/modes/support-color/veira-yellow": "enabled"
     },
     "group": "Support color"
   },
@@ -976,7 +987,8 @@
     "id": "bee5ef62c327b92071fa1a514b9ab43a96b1b0b5",
     "name": "veira-green",
     "selectedTokenSets": {
-      "semantic/modes/support-color/veira-green": "enabled"
+      "semantic/modes/support-color/veira-green": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "group": "Support color"
   },
@@ -984,7 +996,8 @@
     "id": "25a1171d4c6267c5268cd8e235562cc59760fed6",
     "name": "veira-blue",
     "selectedTokenSets": {
-      "semantic/modes/support-color/veira-blue": "enabled"
+      "semantic/modes/support-color/veira-blue": "enabled",
+      "semantic/modes/support-color/veira-yellow": "disabled"
     },
     "group": "Support color"
   }
