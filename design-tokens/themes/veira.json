@@ -1,69 +1,333 @@
 {
   "color": {
-    "accent": {
+    "veira-teal": {
       "1": {
         "$type": "color",
-        "$value": "{veira.accent.1}"
+        "$value": "{veira.veira-teal.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{veira.accent.2}"
+        "$value": "{veira.veira-teal.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{veira.accent.3}"
+        "$value": "{veira.veira-teal.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{veira.accent.4}"
+        "$value": "{veira.veira-teal.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{veira.accent.5}"
+        "$value": "{veira.veira-teal.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{veira.accent.6}"
+        "$value": "{veira.veira-teal.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{veira.accent.7}"
+        "$value": "{veira.veira-teal.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{veira.accent.8}"
+        "$value": "{veira.veira-teal.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{veira.accent.9}"
+        "$value": "{veira.veira-teal.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{veira.accent.10}"
+        "$value": "{veira.veira-teal.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{veira.accent.11}"
+        "$value": "{veira.veira-teal.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{veira.accent.12}"
+        "$value": "{veira.veira-teal.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{veira.accent.13}"
+        "$value": "{veira.veira-teal.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{veira.accent.14}"
+        "$value": "{veira.veira-teal.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{veira.accent.15}"
+        "$value": "{veira.veira-teal.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{veira.accent.16}"
+        "$value": "{veira.veira-teal.16}"
+      }
+    },
+    "veira-yellow-100": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-yellow-100.16}"
+      }
+    },
+    "veira-blue-100": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-100.16}"
+      }
+    },
+    "veira-coral-100": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-100.16}"
+      }
+    },
+    "veira-green-100": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-green-100.16}"
       }
     },
     "neutral": {
@@ -132,268 +396,796 @@
         "$value": "{veira.neutral.16}"
       }
     },
-    "veira-coral": {
+    "veira-yellow-50": {
       "1": {
         "$type": "color",
-        "$value": "{veira.veira-coral.1}"
+        "$value": "{veira.veira-yellow-50.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{veira.veira-coral.2}"
+        "$value": "{veira.veira-yellow-50.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{veira.veira-coral.3}"
+        "$value": "{veira.veira-yellow-50.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{veira.veira-coral.4}"
+        "$value": "{veira.veira-yellow-50.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{veira.veira-coral.5}"
+        "$value": "{veira.veira-yellow-50.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{veira.veira-coral.6}"
+        "$value": "{veira.veira-yellow-50.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{veira.veira-coral.7}"
+        "$value": "{veira.veira-yellow-50.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{veira.veira-coral.8}"
+        "$value": "{veira.veira-yellow-50.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{veira.veira-coral.9}"
+        "$value": "{veira.veira-yellow-50.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{veira.veira-coral.10}"
+        "$value": "{veira.veira-yellow-50.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{veira.veira-coral.11}"
+        "$value": "{veira.veira-yellow-50.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{veira.veira-coral.12}"
+        "$value": "{veira.veira-yellow-50.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{veira.veira-coral.13}"
+        "$value": "{veira.veira-yellow-50.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{veira.veira-coral.14}"
+        "$value": "{veira.veira-yellow-50.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{veira.veira-coral.15}"
+        "$value": "{veira.veira-yellow-50.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{veira.veira-coral.16}"
+        "$value": "{veira.veira-yellow-50.16}"
       }
     },
-    "veira-yellow": {
+    "veira-yellow-25": {
       "1": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.1}"
+        "$value": "{veira.veira-yellow-25.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.2}"
+        "$value": "{veira.veira-yellow-25.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.3}"
+        "$value": "{veira.veira-yellow-25.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.4}"
+        "$value": "{veira.veira-yellow-25.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.5}"
+        "$value": "{veira.veira-yellow-25.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.6}"
+        "$value": "{veira.veira-yellow-25.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.7}"
+        "$value": "{veira.veira-yellow-25.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.8}"
+        "$value": "{veira.veira-yellow-25.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.9}"
+        "$value": "{veira.veira-yellow-25.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.10}"
+        "$value": "{veira.veira-yellow-25.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.11}"
+        "$value": "{veira.veira-yellow-25.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.12}"
+        "$value": "{veira.veira-yellow-25.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.13}"
+        "$value": "{veira.veira-yellow-25.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.14}"
+        "$value": "{veira.veira-yellow-25.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.15}"
+        "$value": "{veira.veira-yellow-25.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{veira.veira-yellow.16}"
+        "$value": "{veira.veira-yellow-25.16}"
       }
     },
-    "veira-green": {
+    "veira-yellow-10": {
       "1": {
         "$type": "color",
-        "$value": "{veira.veira-green.1}"
+        "$value": "{veira.veira-yellow-10.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{veira.veira-green.2}"
+        "$value": "{veira.veira-yellow-10.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{veira.veira-green.3}"
+        "$value": "{veira.veira-yellow-10.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{veira.veira-green.4}"
+        "$value": "{veira.veira-yellow-10.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{veira.veira-green.5}"
+        "$value": "{veira.veira-yellow-10.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{veira.veira-green.6}"
+        "$value": "{veira.veira-yellow-10.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{veira.veira-green.7}"
+        "$value": "{veira.veira-yellow-10.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{veira.veira-green.8}"
+        "$value": "{veira.veira-yellow-10.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{veira.veira-green.9}"
+        "$value": "{veira.veira-yellow-10.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{veira.veira-green.10}"
+        "$value": "{veira.veira-yellow-10.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{veira.veira-green.11}"
+        "$value": "{veira.veira-yellow-10.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{veira.veira-green.12}"
+        "$value": "{veira.veira-yellow-10.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{veira.veira-green.13}"
+        "$value": "{veira.veira-yellow-10.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{veira.veira-green.14}"
+        "$value": "{veira.veira-yellow-10.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{veira.veira-green.15}"
+        "$value": "{veira.veira-yellow-10.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{veira.veira-green.16}"
+        "$value": "{veira.veira-yellow-10.16}"
       }
     },
-    "veira-blue": {
+    "veira-blue-50": {
       "1": {
         "$type": "color",
-        "$value": "{veira.veira-blue.1}"
+        "$value": "{veira.veira-blue-50.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{veira.veira-blue.2}"
+        "$value": "{veira.veira-blue-50.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{veira.veira-blue.3}"
+        "$value": "{veira.veira-blue-50.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{veira.veira-blue.4}"
+        "$value": "{veira.veira-blue-50.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{veira.veira-blue.5}"
+        "$value": "{veira.veira-blue-50.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{veira.veira-blue.6}"
+        "$value": "{veira.veira-blue-50.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{veira.veira-blue.7}"
+        "$value": "{veira.veira-blue-50.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{veira.veira-blue.8}"
+        "$value": "{veira.veira-blue-50.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{veira.veira-blue.9}"
+        "$value": "{veira.veira-blue-50.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{veira.veira-blue.10}"
+        "$value": "{veira.veira-blue-50.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{veira.veira-blue.11}"
+        "$value": "{veira.veira-blue-50.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{veira.veira-blue.12}"
+        "$value": "{veira.veira-blue-50.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{veira.veira-blue.13}"
+        "$value": "{veira.veira-blue-50.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{veira.veira-blue.14}"
+        "$value": "{veira.veira-blue-50.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{veira.veira-blue.15}"
+        "$value": "{veira.veira-blue-50.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{veira.veira-blue.16}"
+        "$value": "{veira.veira-blue-50.16}"
+      }
+    },
+    "veira-blue-25": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-25.16}"
+      }
+    },
+    "veira-blue-10": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-blue-10.16}"
+      }
+    },
+    "veira-green-50": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-green-50.16}"
+      }
+    },
+    "veira-green-25": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-green-25.16}"
+      }
+    },
+    "veira-green-10": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-green-10.16}"
+      }
+    },
+    "veira-coral-50": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-50.16}"
+      }
+    },
+    "veira-coral-25": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-25.16}"
+      }
+    },
+    "veira-coral-10": {
+      "1": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{veira.veira-coral-10.16}"
       }
     }
   },
