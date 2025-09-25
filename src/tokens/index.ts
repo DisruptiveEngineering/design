@@ -1,25 +1,101 @@
 // Design tokens derived from the CSS custom properties
 export const tokens = {
   colors: {
-    veiraCoral: {
-      base: 'var(--ds-color-veira-coral-base-default)',
-      surface: 'var(--ds-color-veira-coral-surface-default)',
-      text: 'var(--ds-color-veira-coral-text-default)',
+    // Base Veira colors
+    veiraTeal: {
+      base: 'var(--ds-color-veira-teal-base-default)',
+      surface: 'var(--ds-color-veira-teal-surface-default)',
+      text: 'var(--ds-color-veira-teal-text-default)',
     },
-    veiraBlue: {
-      base: 'var(--ds-color-veira-blue-base-default)',
-      surface: 'var(--ds-color-veira-blue-surface-default)',
-      text: 'var(--ds-color-veira-blue-text-default)',
+    neutral: {
+      base: 'var(--ds-color-neutral-base-default)',
+      surface: 'var(--ds-color-neutral-surface-default)',
+      text: 'var(--ds-color-neutral-text-default)',
     },
-    veiraGreen: {
-      base: 'var(--ds-color-veira-green-base-default)',
-      surface: 'var(--ds-color-veira-green-surface-default)',
-      text: 'var(--ds-color-veira-green-text-default)',
+
+    // Veira brand colors with intensity variants
+    veiraYellow100: {
+      base: 'var(--ds-color-veira-yellow-100-base-default)',
+      surface: 'var(--ds-color-veira-yellow-100-surface-default)',
+      text: 'var(--ds-color-veira-yellow-100-text-default)',
     },
-    veiraYellow: {
-      base: 'var(--ds-color-veira-yellow-base-default)',
-      surface: 'var(--ds-color-veira-yellow-surface-default)',
-      text: 'var(--ds-color-veira-yellow-text-default)',
+    veiraYellow50: {
+      base: 'var(--ds-color-veira-yellow-50-base-default)',
+      surface: 'var(--ds-color-veira-yellow-50-surface-default)',
+      text: 'var(--ds-color-veira-yellow-50-text-default)',
+    },
+    veiraYellow25: {
+      base: 'var(--ds-color-veira-yellow-25-base-default)',
+      surface: 'var(--ds-color-veira-yellow-25-surface-default)',
+      text: 'var(--ds-color-veira-yellow-25-text-default)',
+    },
+    veiraYellow10: {
+      base: 'var(--ds-color-veira-yellow-10-base-default)',
+      surface: 'var(--ds-color-veira-yellow-10-surface-default)',
+      text: 'var(--ds-color-veira-yellow-10-text-default)',
+    },
+
+    veiraCoral100: {
+      base: 'var(--ds-color-veira-coral-100-base-default)',
+      surface: 'var(--ds-color-veira-coral-100-surface-default)',
+      text: 'var(--ds-color-veira-coral-100-text-default)',
+    },
+    veiraCoral50: {
+      base: 'var(--ds-color-veira-coral-50-base-default)',
+      surface: 'var(--ds-color-veira-coral-50-surface-default)',
+      text: 'var(--ds-color-veira-coral-50-text-default)',
+    },
+    veiraCoral25: {
+      base: 'var(--ds-color-veira-coral-25-base-default)',
+      surface: 'var(--ds-color-veira-coral-25-surface-default)',
+      text: 'var(--ds-color-veira-coral-25-text-default)',
+    },
+    veiraCoral10: {
+      base: 'var(--ds-color-veira-coral-10-base-default)',
+      surface: 'var(--ds-color-veira-coral-10-surface-default)',
+      text: 'var(--ds-color-veira-coral-10-text-default)',
+    },
+
+    veiraBlue100: {
+      base: 'var(--ds-color-veira-blue-100-base-default)',
+      surface: 'var(--ds-color-veira-blue-100-surface-default)',
+      text: 'var(--ds-color-veira-blue-100-text-default)',
+    },
+    veiraBlue50: {
+      base: 'var(--ds-color-veira-blue-50-base-default)',
+      surface: 'var(--ds-color-veira-blue-50-surface-default)',
+      text: 'var(--ds-color-veira-blue-50-text-default)',
+    },
+    veiraBlue25: {
+      base: 'var(--ds-color-veira-blue-25-base-default)',
+      surface: 'var(--ds-color-veira-blue-25-surface-default)',
+      text: 'var(--ds-color-veira-blue-25-text-default)',
+    },
+    veiraBlue10: {
+      base: 'var(--ds-color-veira-blue-10-base-default)',
+      surface: 'var(--ds-color-veira-blue-10-surface-default)',
+      text: 'var(--ds-color-veira-blue-10-text-default)',
+    },
+
+    veiraGreen100: {
+      base: 'var(--ds-color-veira-green-100-base-default)',
+      surface: 'var(--ds-color-veira-green-100-surface-default)',
+      text: 'var(--ds-color-veira-green-100-text-default)',
+    },
+    veiraGreen50: {
+      base: 'var(--ds-color-veira-green-50-base-default)',
+      surface: 'var(--ds-color-veira-green-50-surface-default)',
+      text: 'var(--ds-color-veira-green-50-text-default)',
+    },
+    veiraGreen25: {
+      base: 'var(--ds-color-veira-green-25-base-default)',
+      surface: 'var(--ds-color-veira-green-25-surface-default)',
+      text: 'var(--ds-color-veira-green-25-text-default)',
+    },
+    veiraGreen10: {
+      base: 'var(--ds-color-veira-green-10-base-default)',
+      surface: 'var(--ds-color-veira-green-10-surface-default)',
+      text: 'var(--ds-color-veira-green-10-text-default)',
     },
   },
   spacing: {
