@@ -30,7 +30,7 @@ Or add to your `package.json`:
 
 ## Usage
 
-### CSS Setup
+### SCSS Setup
 
 Import both Designsystemet base styles and Veira tokens:
 
